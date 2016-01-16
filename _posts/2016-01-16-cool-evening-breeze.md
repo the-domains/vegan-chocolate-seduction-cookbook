@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T02:04:22.040Z'
-dateModified: '2016-01-16T02:04:21.283Z'
+datePublished: '2016-01-16T02:10:05.554Z'
+dateModified: '2016-01-16T02:05:56.582Z'
 title: Cool Evening Breeze
 author: []
 sourcePath: _posts/2016-01-16-cool-evening-breeze.md
@@ -27,7 +27,7 @@ chocolate and coffee meet mint and ice, reminiscent of a refreshing
 romantic evening when it's great to snuggle up with your loved one.
 This drink is a fine treat for the spring or summer, or even in the
 middle of winter if you find yourself craving warmer days.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a213c57-c9ef-4873-b31d-b506b424b110.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/491543dae57cb6c462c2eba49448caa5036caa56.jpg)
 
 **Seductive
 Activity Idea: **Find
