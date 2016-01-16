@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T02:04:31.181Z'
-dateModified: '2016-01-16T02:02:44.033Z'
+datePublished: '2016-01-16T02:04:31.522Z'
+dateModified: '2016-01-16T02:04:31.181Z'
 title: Heavenly Heartthrob Squares
 author: []
 sourcePath: _posts/2016-01-16-heavenly-heartthrob-squares.md
