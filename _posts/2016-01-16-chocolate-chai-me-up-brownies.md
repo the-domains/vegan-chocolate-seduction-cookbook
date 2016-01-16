@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T01:34:56.953Z'
-dateModified: '2016-01-16T01:34:56.591Z'
+datePublished: '2016-01-16T01:34:56.997Z'
+dateModified: '2016-01-16T01:34:56.586Z'
 title: Chocolate Chai Me Up Brownies
 author: []
 sourcePath: _posts/2016-01-16-chocolate-chai-me-up-brownies.md
