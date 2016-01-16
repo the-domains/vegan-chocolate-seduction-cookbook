@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: The cookbook includes both wheat and gluten-free versions of this delectable treat.
-datePublished: '2016-01-16T01:32:35.941Z'
+datePublished: '2016-01-16T01:32:36.047Z'
 dateModified: '2016-01-16T01:32:31.750Z'
 title: "Cupid's Arrow Brownies"
 author: []
