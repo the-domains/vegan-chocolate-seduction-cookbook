@@ -1,8 +1,7 @@
 name: Vegan Chocolate Seduction Cookbook
 favicon: null
-layout_spectrum: 0.81673
+layout_spectrum: 0.1481744642369449
 typography_spectrum: 0.5081385225057602
-title: '30 Romantic, Sexy, Playful Recipes for Passionate Chocolate Lovers'
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffdd0c'
-    - '#61170c'
-    - '#d6b00f'
-    - '#895814'
-    - '#fefefe'
-  brandStrength: 0.5625
-  lightness: 0.375
-  saturation: 0.3125
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.1544324008282274
+  lightness: 0.8390691413078457
+  saturation: 0.28787629143334925
   rhythmicContrast: 0.5247583300806582
 purpose: []
