@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: You know you want it. Get your copy of this sexy cookbook at Amazon today.
-datePublished: '2016-01-16T02:23:04.651Z'
+datePublished: '2016-01-16T02:23:04.728Z'
 dateModified: '2016-01-16T02:14:08.219Z'
 title: Get Your Copy
 author: []
