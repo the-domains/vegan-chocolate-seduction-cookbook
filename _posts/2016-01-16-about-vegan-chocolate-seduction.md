@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T03:59:04.152Z'
-dateModified: '2016-01-16T03:58:58.651Z'
+datePublished: '2016-01-16T03:59:04.187Z'
+dateModified: '2016-01-16T03:59:04.030Z'
 title: About Vegan Chocolate Seduction
 author: []
 sourcePath: _posts/2016-01-16-about-vegan-chocolate-seduction.md
