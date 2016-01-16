@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: You know you want it. Get your copy of this sexy cookbook at Amazon today.
-datePublished: '2016-01-16T04:00:00.869Z'
-dateModified: '2016-01-16T04:00:00.528Z'
+datePublished: '2016-01-16T04:14:34.389Z'
+dateModified: '2016-01-16T04:14:25.832Z'
 title: Get Your Copy
 author: []
 sourcePath: _posts/2016-01-16-you-know-you-want-it.md
@@ -26,4 +26,4 @@ _type: Article
 
 [Get your paperback at Amazon today.][0]
 
-[0]: http://amzn.to/1n1IDys
+[0]: http://amzn.to/1n7GIZV
