@@ -3,26 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Get your copy of this sexy cookbook today.
-datePublished: '2016-01-16T01:17:21.856Z'
-dateModified: '2016-01-16T01:08:24.960Z'
+datePublished: '2016-01-16T01:29:36.769Z'
+dateModified: '2016-01-16T01:29:23.504Z'
 title: You Know You Want It
 author: []
+sourcePath: _posts/2016-01-16-you-know-you-want-it.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-you-know-you-want-it.md
-published: true
 url: you-know-you-want-it/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bdb8cdd-7459-4288-85c0-73b00756ec7e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/30c49164504d780580949d63001c2a826b5a51af.jpg)
 
 [Get your paperback at Amazon today.][0]
 
