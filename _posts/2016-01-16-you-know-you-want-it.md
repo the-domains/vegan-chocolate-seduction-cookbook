@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: You know you want it. Get your copy of this sexy cookbook at Amazon today.
-datePublished: '2016-01-20T04:14:36.301Z'
-dateModified: '2016-01-20T04:14:33.032Z'
+datePublished: '2016-01-20T04:19:22.404Z'
+dateModified: '2016-01-20T04:18:56.320Z'
 title: Get Your Copy
 author: []
 sourcePath: _posts/2016-01-16-you-know-you-want-it.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: you-know-you-want-it/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42695726-3ead-4219-afe0-5ad3cc74d008.jpg)
