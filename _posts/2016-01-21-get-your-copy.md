@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: You know you want it. Get your copy of this sexy cookbook today.
-datePublished: '2016-01-21T23:42:22.579Z'
-dateModified: '2016-01-21T23:41:55.240Z'
+datePublished: '2016-01-21T23:43:23.754Z'
+dateModified: '2016-01-21T23:43:09.916Z'
 title: Get Your Copy
 author: []
+sourcePath: _posts/2016-01-21-get-your-copy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-get-your-copy.md
-published: true
 url: get-your-copy/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e59b75f-fcb9-47e4-9fda-8077006a931a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/59d519543d10194880a7c2048e92cc2c2505bc43.jpg)
 
 [Get your copy from Amazon.][0]
 
