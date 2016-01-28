@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: You know you want it. Get your copy of this sexy cookbook today.
-datePublished: '2016-01-21T23:43:23.897Z'
-dateModified: '2016-01-21T23:43:09.916Z'
+datePublished: '2016-01-28T23:02:21.010Z'
+dateModified: '2016-01-22T00:30:59.832Z'
 title: Get Your Copy
 author: []
 sourcePath: _posts/2016-01-21-get-your-copy.md
